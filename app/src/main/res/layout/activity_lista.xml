@@ -34,7 +34,7 @@
             tools:text="Título" />
 
         <TextView
-            android:id="@+id/rcyAnota"
+            android:id="@+id/rcyAnotacao"
             android:layout_width="337dp"
             android:layout_height="81dp"
             android:layout_marginStart="16dp"
@@ -62,7 +62,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <ImageView
-            android:id="@+id/imageView2"
+            android:id="@+id/imgData"
             android:layout_width="19dp"
             android:layout_height="18dp"
             android:layout_marginTop="8dp"
